@@ -164,4 +164,9 @@ As for the problem that the current sorting method is too simple, that's because
 
 After we further improved our template, we had another discussion in the group and conducted a survey of users' experience again, so that users could give us new feedback on our APP to help us realize the design as soon as possible. Then we asked them to give feedback on our improved template and score it on a range of 1 to 5 (5 is the highest score). This time, the users were more satisfied and most of them gave a score of 4 or 5, which shows that our product design is OK. Based on the feedback from users, we can draw a conclusion that our APP has a simple and clear design style, simple and easy to use function operation, and high accuracy. However, some details in our APP need to be marked to make users feel at ease and comfortable. Thus, we will continue to improve our APP.
 
- 
+## Know more about us
+
+Here's a link to our video
+
+[Video](https://www.bilibili.com/video/BV1aU4y1H7X2)
+
